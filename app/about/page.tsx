@@ -40,13 +40,15 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
               <p className="text-gray-700 mb-4">
-                Founded in {COMPANY_YEAR_FOUNDED}, H & I Construction LLC has grown to become one of the most trusted construction companies in Eastern Washington. We began with a simple mission: to provide high-quality construction services with integrity and professionalism.
+              At H&I Construction LLC, we bring over 11 years of hands-on experience in excavation, general contracting, demolition, and development. Our expertise spans across commercial, residential, and public works projects, ensuring that we can handle jobs of any scale with precision and professionalism. Based in Kennewick, we take pride in serving our local community and the surrounding areas with high-quality earthwork and construction services.
               </p>
               <p className="text-gray-700 mb-4">
-                Over the years, we've built a reputation for excellence in excavation, demolition, land clearing, utility installation, foundation work, concrete services, septic system installation, and material delivery. Our dedicated team brings years of experience and expertise to every project.
+              Founded on hard work, integrity, and a commitment to excellence, H&I Construction LLC is more than just a construction company—we are a family-driven business that values strong relationships and customer satisfaction. Our team is skilled in site preparation, land clearing, grading, utility installation, roadwork, foundation excavation, and demolition services. Whether you’re a homeowner or developer we have the expertise to bring your project to life efficiently and effectively.
               </p>
               <p className="text-gray-700 mb-6">
-                Today, we proudly serve the Tri-Cities, Walla Walla, Yakima, Grandview, Prosser, and Sunnyside areas, maintaining our commitment to quality workmanship and customer satisfaction on every job.
+              Beyond our work, we are passionate about giving back to the community and supporting the next generation. We believe in making a difference, not just through the projects we complete, but also by helping those around us.
+
+When you choose H&I Construction LLC, you’re not just hiring a contractor you’re partnering with a team that truly cares about your project, your vision, and the community we all share.
               </p>
               
               <div className="flex space-x-4 mb-6">
@@ -73,8 +75,8 @@ export default function AboutPage() {
             
             <div className="relative h-96 rounded-2xl overflow-hidden shadow-xl">
               <Image
-                src="https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-                alt="Construction work"
+                src="https://i.ibb.co/wFsN1DFD/IMG-5111.jpg"
+                alt="About Us Photo"
                 fill
                 className="object-cover"
               />

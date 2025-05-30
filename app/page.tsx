@@ -14,7 +14,7 @@ export default function Home() {
         subtitle="Providing professional construction services for residential and commercial projects throughout Eastern Washington."
         ctaText="Get Your Free Estimate"
         ctaLink="/contact"
-        imageUrl="https://images.pexels.com/photos/259751/pexels-photo-259751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        imageUrl="https://images.unsplash.com/photo-1517089152318-42ec560349c0?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGNvbnN0cnVjdGlvbiUyMHNpdGUlMjBhcmllbCUyMHZpZXd8ZW58MHx8MHx8fDA%3D"
       />
 
       <section className="py-16 md:py-24 bg-gray-50">
@@ -144,7 +144,7 @@ export default function Home() {
             
             <div className="relative rounded-2xl overflow-hidden h-96 shadow-xl">
               <img 
-                src="https://images.pexels.com/photos/2760289/pexels-photo-2760289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://i.ibb.co/21bCQnnb/worker.jpg" 
                 alt="Construction site" 
                 className="w-full h-full object-cover"
               />
